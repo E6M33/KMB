@@ -1,0 +1,20 @@
+[
+  {
+    "number": 0,
+    "route": "KMB",
+    "destZ": "暫停服務",
+    "destY": "暫停服務",
+  },
+  {
+    "number": 1,
+    "route": "40X",
+    "destZ": "烏溪沙站",
+    "destY": "葵涌邨",
+  },
+  {
+    "number": 2,
+    "route": "49X",
+    "destZ": "沙田(廣源)",
+    "destY": "青衣碼頭",
+  }
+]
